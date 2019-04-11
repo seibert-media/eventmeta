@@ -1,0 +1,9 @@
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/google/gofuzz v1.0.0
+github.com/google/gofuzz
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# k8s.io/utils v0.0.0-20190308190857-21c4ce38f2a7
+k8s.io/utils/diff
+k8s.io/utils/field
